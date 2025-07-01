@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'Full Stuck Restoren APP',
     description: 'An restorent website where users can browse products, Search products and add items to a cart.',
-    image: 'https://www.nakshtechnologies.com/wp-content/uploads/2021/10/732-7329685_e-commerce-website-background-image-e-commerce-website-removebg-preview.png',
+    image: 'https://t4.ftcdn.net/jpg/14/17/30/25/240_F_1417302568_mcfpxyKkW7ryufCA5HOWPEh3kAJCjGBH.jpg',
     tags: ['Django', 'JavaScript', 'HTML', 'CSS'],
     githubLink: 'https://github.com/amitnanda305/restorent_project',
     liveLink: 'https://restorent-project.onrender.com/',
